@@ -1,0 +1,10 @@
+full_dataset.csv
+*.pdf
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+__pycache__
+.pytest_cache
+.env
+qdrant_storage
